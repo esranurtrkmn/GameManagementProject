@@ -4,5 +4,6 @@
 
 outputs:
 
-![Adsız](https://user-images.githubusercontent.com/34512770/117076561-41000f80-ad3f-11eb-9c7c-5a7caaa74007.png)
-![adsız2](https://user-images.githubusercontent.com/34512770/117076574-452c2d00-ad3f-11eb-8ae5-2985cf9a3a94.png)
+![3](https://user-images.githubusercontent.com/34512770/117077126-372adc00-ad40-11eb-8dc5-0988ee31e572.png)
+![adsız2](https://user-images.githubusercontent.com/34512770/117077134-3abe6300-ad40-11eb-8112-d3b7a3a2ab9d.png)
+
