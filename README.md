@@ -1,5 +1,5 @@
 # GameManagementProject
- JavaCamp subject: Interface and Abstract Demo with Mernis(The Verification about nationality ID of Turkey Republic)
+ JavaCamp subject: Interface and Abstract Demo with Mernis(The Verification about identity number of Turkey Republic)
 
 
 outputs:
